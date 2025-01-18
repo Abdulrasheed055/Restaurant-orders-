@@ -1,5 +1,5 @@
 # Restaurant-orders-
-Analyzed restaurant orders to uncover trends, optimize menus, and improve customer satisfaction using SQL insights.
+
 ![image](https://github.com/Abdulrasheed055/Restaurant-orders-/blob/main/images.jpg)
 
 ## projective objective
