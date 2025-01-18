@@ -1,5 +1,7 @@
 # Restaurant-orders-
 Analyzed restaurant orders to uncover trends, optimize menus, and improve customer satisfaction using SQL insights.
+![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
+
 ## projective objective
 The objective of this project was to analyze restaurant orders to identify trends, optimize menu offerings, and improve business performance.
 ## Question
